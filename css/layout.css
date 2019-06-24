@@ -23,5 +23,13 @@
 }
 
 /* Posititoning Classes */
+.border_right {
+  float: left;
+  padding-left: 2%;
+}
 
+.follow {
+  float: left;
+  padding-left: 2%;
+}
 
